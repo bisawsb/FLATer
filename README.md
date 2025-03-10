@@ -1,5 +1,5 @@
 # FLATer
-High-speed and Accurate Diagnosis of Gastrointestinal Disease: Learning on Endoscopy Images Using Lightweight Transformer with Local Feature Attention.
+High-speed and Accurate Diagnosis of Gastrointestinal Disease: Learning on Endoscopy Images Using Lightweight Transformer with Local Feature Attention. [Paper](https://www.mdpi.com/2306-5354/10/12/1416)
 
 ![figure2](https://github.com/bisawsb/FLATer/assets/24793023/dd4dd131-b3e8-4e7b-b8c8-cf89841e172a)
 
